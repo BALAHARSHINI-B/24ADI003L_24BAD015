@@ -9,9 +9,7 @@ https://www.kaggle.com/datasets/sohier/calcofi
 https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52c940bc01c6378cc38a3716203f1f58a0870167/EXERCISE%202/scenario%201
 
 ##  Output
-
-
-
+![scenario1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/3d10514a5303d0f1290a822c311a70fa7e6a5481/EXERCISE%202/Output/scenario%201/scenario%201.png)
 ### Output 1  
 ![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/3c12b52bc98936e89afbd82cf3f1ec8e04221fa8/EXERCISE%202/Output/scenario%201/scenario%201_1.jpeg)
 
@@ -32,7 +30,7 @@ https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52c940bc01c6378cc38a37
 
 ##  Output
 
-![Scenario 1 Output 1](https://github.com/lil-D27/24ADI003L_24BAD019/blob/53f9edea26773d0d4cb86c7d028e6b086674955e/EXERCISE%202/FIGURES/OUTPUT%20SCENARIO%202/ex2-opsc2.png)
+![Scenario 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/3d10514a5303d0f1290a822c311a70fa7e6a5481/EXERCISE%202/Output/scenario%202/scenario%202.png)
 
 ### Output 1  
 ![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/3c12b52bc98936e89afbd82cf3f1ec8e04221fa8/EXERCISE%202/Output/scenario%202/scenario%202_1.jpeg)
