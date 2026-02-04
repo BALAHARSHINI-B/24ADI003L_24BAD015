@@ -6,7 +6,7 @@ The dataset for this project is taken from **Kaggle**:
 https://www.kaggle.com/datasets/sohier/calcofi
 
 ## Code 
-https://github.com/lil-D27/24ADI003L_24BAD019/blob/4448e939f5ae9f59cc4fd37b9d0617c8878c8091/EXERCISE%202/SCENARIO%201
+https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52c940bc01c6378cc38a3716203f1f58a0870167/EXERCISE%202/scenario%201
 
 ##  Output
 
@@ -28,7 +28,7 @@ The dataset for this project is taken from **Kaggle**:
 https://www.kaggle.com/datasets/debashis74017/lic-stock-price-data
 
 ## Code 
-https://github.com/lil-D27/24ADI003L_24BAD019/blob/4448e939f5ae9f59cc4fd37b9d0617c8878c8091/EXERCISE%202/SCENARIO%202
+https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52c940bc01c6378cc38a3716203f1f58a0870167/EXERCISE%202/scenario%202
 
 ##  Output
 
