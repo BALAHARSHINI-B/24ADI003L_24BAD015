@@ -9,19 +9,14 @@ The dataset for this project is taken from **Kaggle**:
 https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/023cec1ef6c87454e54a1ddd94407c8c8b1a3749/EXERCISE%206/scenario%201
 
 ## 📈 Output
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/fig%203.png
+![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%201/6_1.png
 )
 
 ### Output 1  
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/Fig%203_1.png)
+![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%201/6_1_1.png)
 
 ### Output 2
-![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/Fig%203_2.png)
-
-### Output 3
-![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/Fig%203_3.png
-)
-
+![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%201/6_1_2.png)
 
 # SCENARIO 2
 ## 📊 Dataset Used
@@ -33,17 +28,17 @@ The dataset for this project is taken from **Kaggle**:
 https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/023cec1ef6c87454e54a1ddd94407c8c8b1a3749/EXERCISE%206/scenario%202
 
 ## 📈 Output
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/fig%203_2.png
+![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%202/6_2.png
 )
 
 ### Output 1  
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/fig%203_2_1.png)
+![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%202/6_2_1.png)
 
 ### Output 2
-![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/Fig%203_2_2.png)
+![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%202/6_2_2.png)
 
 ### Output 3
-![Scenario 1 Output 3](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/Fig%203_2_3.png)
+![Scenario 1 Output 3](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%202/6_2_3.png)
 
 # SCENARIO 3
 ## 📊 Dataset Used
@@ -55,18 +50,14 @@ The dataset for this project is taken from **Kaggle**:
 https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/023cec1ef6c87454e54a1ddd94407c8c8b1a3749/EXERCISE%206/scenario%203
 
 ## 📈 Output
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/fig%203.png
+![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%203/6_3.png
 )
 
 ### Output 1  
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/Fig%203_1.png)
+![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%203/6_3_1.png)
 
 ### Output 2
-![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/Fig%203_2.png)
-
-### Output 3
-![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/52bdd793c3e6a647621f25e02514067a128b4f89/EXERCISE%203/output/scenario%201/Fig%203_3.png
-)
+![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%203/6_3_2.png)
 
 
 # SCENARIO 4
@@ -79,17 +70,10 @@ The dataset for this project is taken from **Kaggle**:
 https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/023cec1ef6c87454e54a1ddd94407c8c8b1a3749/EXERCISE%206/scenario%204
 
 ## 📈 Output
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/fig%203_2.png
+![Scenario 1 Output ](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%204/6_4_1.png
 )
 
-### Output 1  
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/fig%203_2_1.png)
 
-### Output 2
-![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/Fig%203_2_2.png)
-
-### Output 3
-![Scenario 1 Output 3](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/Fig%203_2_3.png)
 # SCENARIO 5
 ## 📊 Dataset Used
 The dataset for this project is taken from **Kaggle**:
@@ -99,17 +83,13 @@ The dataset for this project is taken from **Kaggle**:
 ## Code
 https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/023cec1ef6c87454e54a1ddd94407c8c8b1a3749/EXERCISE%206/scenario%205
 
-## 📈 Output
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/fig%203_2.png
-)
-
 ### Output 1  
-![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/fig%203_2_1.png)
+![Scenario 1 Output 1](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%205/6_5_1.png)
 
 ### Output 2
-![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/Fig%203_2_2.png)
+![Scenario 1 Output 2](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%205/6_5_2.png)
 
 ### Output 3
-![Scenario 1 Output 3](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/59430ef12738d249045147335d9cb6488fe3f3c4/EXERCISE%203/output/scenario%202/Fig%203_2_3.png)
+![Scenario 1 Output 3](https://github.com/BALAHARSHINI-B/24ADI003L_24BAD015/blob/e15643d14a1cf829afa938613bb112642c2d210d/EXERCISE%206/output/scenario%205/6_5_3.png)
 
 
